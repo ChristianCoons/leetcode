@@ -1,3 +1,5 @@
+
+#Overly Complicated O(n^2) Solution, should revist
 class Solution:
     def convert(self, s: str, numRows: int) -> str:
         if numRows == 1 :
