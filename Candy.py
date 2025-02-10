@@ -32,7 +32,7 @@ class Solution:
 
 
 
-    #Nice solution but its O(n^2) in worst case
+    #Nice first solution but its O(n^2) in worst case
     def candyBad(self, ratings: List[int]) -> int:
         def checkLeft(pos):
             #print(f"candyArray[{pos - 1}]:{candyArray[pos - 1]} <= candyArray[{pos}]:{candyArray[pos]}")
