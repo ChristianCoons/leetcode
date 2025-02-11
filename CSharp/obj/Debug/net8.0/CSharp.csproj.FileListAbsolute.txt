@@ -1,0 +1,15 @@
+/home/mob0/workspace/github.com/ChristianCoons/leetcode/CSharp/bin/Debug/net8.0/CSharp
+/home/mob0/workspace/github.com/ChristianCoons/leetcode/CSharp/bin/Debug/net8.0/CSharp.deps.json
+/home/mob0/workspace/github.com/ChristianCoons/leetcode/CSharp/bin/Debug/net8.0/CSharp.runtimeconfig.json
+/home/mob0/workspace/github.com/ChristianCoons/leetcode/CSharp/bin/Debug/net8.0/CSharp.dll
+/home/mob0/workspace/github.com/ChristianCoons/leetcode/CSharp/bin/Debug/net8.0/CSharp.pdb
+/home/mob0/workspace/github.com/ChristianCoons/leetcode/CSharp/obj/Debug/net8.0/CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/mob0/workspace/github.com/ChristianCoons/leetcode/CSharp/obj/Debug/net8.0/CSharp.AssemblyInfoInputs.cache
+/home/mob0/workspace/github.com/ChristianCoons/leetcode/CSharp/obj/Debug/net8.0/CSharp.AssemblyInfo.cs
+/home/mob0/workspace/github.com/ChristianCoons/leetcode/CSharp/obj/Debug/net8.0/CSharp.csproj.CoreCompileInputs.cache
+/home/mob0/workspace/github.com/ChristianCoons/leetcode/CSharp/obj/Debug/net8.0/CSharp.sourcelink.json
+/home/mob0/workspace/github.com/ChristianCoons/leetcode/CSharp/obj/Debug/net8.0/CSharp.dll
+/home/mob0/workspace/github.com/ChristianCoons/leetcode/CSharp/obj/Debug/net8.0/refint/CSharp.dll
+/home/mob0/workspace/github.com/ChristianCoons/leetcode/CSharp/obj/Debug/net8.0/CSharp.pdb
+/home/mob0/workspace/github.com/ChristianCoons/leetcode/CSharp/obj/Debug/net8.0/CSharp.genruntimeconfig.cache
+/home/mob0/workspace/github.com/ChristianCoons/leetcode/CSharp/obj/Debug/net8.0/ref/CSharp.dll
