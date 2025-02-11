@@ -23,6 +23,7 @@ class Solution:
             if ratings[j] > ratings[j + 1]:
                 if candyArray[j] < candyArray[j+1] + 1:
                     candyArray[j] = candyArray[j+1] + 1
+        
         print(candyArray)
         return sum(candyArray)
 
